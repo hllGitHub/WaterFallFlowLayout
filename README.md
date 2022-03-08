@@ -10,9 +10,12 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 * iOS 11.0, Swift 4.0
 
 ## Example
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h02kqkvzz0g209b0g9b2f.gif)
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h02kpiuk1tj20hs0vkgql.jpg)
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h02kq3y30dj20hs0vkaf8.jpg)
+![waterflowlayout_example](https://user-images.githubusercontent.com/15081858/157207305-b0ce59a2-b945-4675-803c-c9094d77b1c1.gif)
+
+
+![waterflowlayout_example01](https://user-images.githubusercontent.com/15081858/157207404-b25d4ee8-eb1b-4192-b5be-f6d9ee15e5d7.png)
+![waterflowlayout_example02](https://user-images.githubusercontent.com/15081858/157207424-0b5d15e5-2a39-4e04-9c0d-534627e72906.png)
+
 
 ## Installation
 
