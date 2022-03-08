@@ -36,6 +36,10 @@ public class WaterFallFlowLayout: UICollectionViewFlowLayout {
   public override func prepare() {
     super.prepare()
 
+    // 清除缓存数据
+    layoutAttributes = []
+    heights = Array(repeating: self.sectionInset.top, count: columns)
+
     guard let collectionView = collectionView else { return }
 
     let itemWidth = (collectionView.bounds.width - sectionInset.left - sectionInset.right - minimumInteritemSpacing * CGFloat(columns - 1)) / CGFloat(columns)
