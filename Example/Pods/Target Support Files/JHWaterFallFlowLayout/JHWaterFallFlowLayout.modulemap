@@ -1,0 +1,6 @@
+framework module JHWaterFallFlowLayout {
+  umbrella header "JHWaterFallFlowLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

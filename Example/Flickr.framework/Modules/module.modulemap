@@ -1,0 +1,11 @@
+framework module Flickr {
+  umbrella header "Flickr.h"
+
+  export *
+  module * { export * }
+}
+
+module Flickr.Swift {
+    header "Flickr-Swift.h"
+    requires objc
+}

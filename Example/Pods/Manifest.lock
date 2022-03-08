@@ -1,0 +1,16 @@
+PODS:
+  - JHWaterFallFlowLayout (0.1.0)
+
+DEPENDENCIES:
+  - JHWaterFallFlowLayout (from `../`)
+
+EXTERNAL SOURCES:
+  JHWaterFallFlowLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JHWaterFallFlowLayout: a4b4a03c79d3a49f754482cbd50b292759024ac1
+
+PODFILE CHECKSUM: 52d3b2b7d63d6f52a2355c310ffc8acc4b376f24
+
+COCOAPODS: 1.10.1
